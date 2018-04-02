@@ -1,0 +1,8 @@
+db.url=192.168.1.102
+
+switch.sms=true
+switch.promotion=false
+switch.points=true
+
+homepage=backkooms.github.io
+findme=true
